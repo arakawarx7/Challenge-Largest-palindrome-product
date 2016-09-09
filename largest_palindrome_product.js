@@ -12,7 +12,7 @@ module.exports = function(digits){
 
   // do your work here
 
-
+test;
 
   return {
     factor_0 : factor_0,
